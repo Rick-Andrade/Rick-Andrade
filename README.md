@@ -25,6 +25,8 @@
   <img align="center" alt="Confluence" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Platformio" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg">
+  <img align="center" alt="Assembly" height="30" width="40" src= "https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610">
+  <img align="center" alt="ESP-IDF" height="30" width="40" src= "https://cdn-images-1.medium.com/max/1200/1*G4K85o5wVIWDgeuIR1NpGA.jpeg">
 </div>
 
 ##
