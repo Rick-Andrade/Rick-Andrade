@@ -10,13 +10,13 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Bitbucket" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg">
   <img align="center" alt="Jira" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Confluence" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
+  <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Trello" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Platformio" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg">
   <img align="center" alt="Git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
