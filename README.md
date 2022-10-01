@@ -24,6 +24,7 @@
   <img align="center" alt="Jira" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg">
   <img align="center" alt="Confluence" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Platformio" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg">
 </div>
 
 ##
