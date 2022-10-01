@@ -27,6 +27,7 @@
   <img align="center" alt="Platformio" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg">
   <img align="center" alt="Assembly" height="30" width="40" src= "https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1603208610">
   <img align="center" alt="ESP-IDF" height="30" width="40" src= "https://cdn-images-1.medium.com/max/1200/1*G4K85o5wVIWDgeuIR1NpGA.jpeg">
+  <img align="center" alt="Node-Red" height="30" width="40" src= "https://nodered.org/about/resources/media/node-red-icon.png">
 </div>
 
 ##
