@@ -53,6 +53,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Proteus" height="30" width="40" src="https://www.labcenter.com/images/logo.png">
   <img align="center" alt="Altiu" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png">
+  
+  <img align="right" alt="gif" height="119" width="217" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 </div>
 
 ##
