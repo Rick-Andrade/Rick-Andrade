@@ -19,6 +19,7 @@
   <img align="center" alt="Confluence" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg">
   <img align="center" alt="Trello" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
   <img align="center" alt="Platformio" height="30" width="40" src= "https://upload.wikimedia.org/wikipedia/commons/c/cd/PlatformIO_logo.svg">
+  <img align="center" alt="Git" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
 ##
@@ -27,6 +28,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original-wordmark.svg">
+  <img align="center" alt="Raspberry" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -61,4 +64,3 @@
 </div>
 
 - 🔭 I’m currently working with embedded system Enginnering
-- 🌱 I’m currently learning ESP-IDF
